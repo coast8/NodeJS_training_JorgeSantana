@@ -19,6 +19,7 @@
 - 8.3 recebendo dados
 	
 - body-parser
+
 	`foi instalando o body-parser para manipular os dados recebidos via request. https://www.npmjs.com/package/body-parser`
 
 	`o mesmo funciona como um midleware, objeto que vai operar em requisicoes e respostas`
@@ -38,6 +39,7 @@
 # Chapter 10
 
 - expess-validator
+
 	`p validar os inputs d dados. https://www.npmjs.com/package/express-validator`
 
 - validar os dados
@@ -48,6 +50,7 @@
 # Chapter 13
 
 - websocket 
+
 	`https://socket.io/`
 
 
@@ -68,6 +71,7 @@ MONGO
 # Chapter 18
 
 - crypto
+
 	`Utilizando o crypto para criptografar os dados, https://nodejs.org/api/crypto.html`
 
 
